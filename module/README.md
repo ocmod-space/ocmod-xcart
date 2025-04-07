@@ -18,6 +18,7 @@ The module does not work and is not supported for stores located in the followin
 ## Live demo
 * [Admin dashboard](https://demo.ocmod.space/a/admin/index.php?route=extension/module/xcart)
 * [Storefront](https://demo.ocmod.space/a/)
+* [Installation video](https://www.youtube.com/watch?v=Aa0uvgFM4G0)
 
 ## License
 [End-User License Agreement](../EULA.txt)
